@@ -1,5 +1,7 @@
 # real-world-vue
 
+build after the 'Real World Vue.js' on Vue Mastery
+
 ## Project setup
 
 ```
