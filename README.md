@@ -26,7 +26,7 @@ npm run build
 npm run lint
 ```
 
-### Spin a little API server
+### Spin up a little API server
 
 ```
 json-server --watch db.json
