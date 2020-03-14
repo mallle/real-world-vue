@@ -29,7 +29,7 @@ npm run lint
 ### Spin a little API server
 
 ```
-json-server --watch db.jsson
+json-server --watch db.json
 ```
 
 ### Customize configuration
