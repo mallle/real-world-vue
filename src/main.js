@@ -4,6 +4,7 @@ import router from './router'
 import store from './store'
 /******
  * This part automatically import base components
+ * remember to add lodash!!
  ******/
 import upperFirst from 'lodash/upperFirst'
 import camelCase from 'lodash/camelCase'
